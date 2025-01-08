@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies Home</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Movies Home</h1>
+        <p>Découvrez vos films préférés</p>
+    </header>
+
+    <section id="movies-container" class="movies-container">
+    </section>
+
+    <div id="movie-popup" class="movie-popup">
+        <div class="popup-content">
+            <span id="close-popup" class="close-popup">&times;</span>
+            <h2 id="popup-title"></h2>
+            <p id="popup-description"></p>
+            <button id="show-comment-form">Commenter</button>
+            <div id="comment-form" class="comment-form">
+                <textarea id="comment-text" placeholder="Écrivez votre commentaire ici..."></textarea>
+                <button id="submit-comment">Envoyer le commentaire</button>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Movies Home. Tous droits réservés.</p>
+    </footer>
+
+     <script type="module" src="index.js"></script>
+</body>
+</html>
