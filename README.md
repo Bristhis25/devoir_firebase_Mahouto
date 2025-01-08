@@ -11,5 +11,5 @@ Technologies utilisées :
 
 Interface d'acceuil de la plateforme :
 
-![image](https://github.com/Mahouto/devoir_firebase_Mahouto/img/1.png)
+![image](https://github.com/Bristhis25/devoir_firebase_Mahouto/blob/main/img/1.png)
 
