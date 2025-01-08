@@ -13,3 +13,13 @@ Interface d'acceuil de la plateforme :
 
 ![image](https://github.com/Bristhis25/devoir_firebase_Mahouto/blob/main/img/1.png)
 
+Affichage de la description des films :
+
+![image](https://github.com/Bristhis25/devoir_firebase_Mahouto/blob/main/img/description.png)
+
+Zone d'entrée des commentaires :
+
+![image](https://github.com/Bristhis25/devoir_firebase_Mahouto/blob/main/img/comment.png)
+
+
+
